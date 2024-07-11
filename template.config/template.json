@@ -1,0 +1,14 @@
+{
+  "author": "Pedro Arciniegas",
+  "classifications": ["Consumer"],
+  "name": "Ilse.RabbitMQ.Consumer Template",
+  "identity": "Ilse.RabbitMQ.Consumer",
+  "shortName": "ilse.consumer",
+  "tags": {
+    "language": "C#"
+  },
+  "sourceName": "Ilse.InboxConsumer",
+  "preferNameDirectory": "true",
+  "defaultName": "Ilse.RabbitMQ.Consumer",
+  "preferDefaultName": "true"
+}
