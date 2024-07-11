@@ -10,5 +10,14 @@
   "sourceName": "Ilse.InboxConsumer",
   "preferNameDirectory": "true",
   "defaultName": "Ilse.RabbitMQ.Consumer",
-  "preferDefaultName": "true"
+  "preferDefaultName": "true",
+  "exclude": [
+    "**/[Bb]in/**",
+    "**/[Oo]bj/**",
+    ".template.config/**/*",
+    "**/*.filelist",
+    "**/*.user",
+    "**/*.lock.json",
+    ".git"
+  ]
 }
